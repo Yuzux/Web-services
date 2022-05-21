@@ -1,10 +1,10 @@
-package com.example.webservice1;
+package com.example.secondservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Webservice2ApplicationTests {
+class SecondserviceApplicationTests {
 
 	@Test
 	void contextLoads() {
